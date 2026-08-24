@@ -29,6 +29,61 @@
       "name": "新浪|点播",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"
+    },
+    {
+      "name": "OK|测试",
+      "type": 1,
+      "api": "https://okzyw9.com/api.php/provide/vod/"
+    },
+    {
+      "name": "宝片|测试",
+      "type": 1,
+      "api": "https://zpsps.com/api.php/provide/vod/"
+    },
+    {
+      "name": "牛牛|测试",
+      "type": 1,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/"
+    },
+    {
+      "name": "丫丫|测试",
+      "type": 1,
+      "api": "https://cj.yayazy.net/api.php/provide/vod/"
+    },
+    {
+      "name": "U酷|测试",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "极速|测试",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "索尼|测试",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "ikun|测试",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "快车|测试",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+    },
+    {
+      "name": "虎牙|测试",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "速博|测试",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod/"
     }
   ]
 }
