@@ -1,0 +1,8 @@
+# EthenaPay / Ethena / Sumsub KYC
+# Surge Rule Set
+
+DOMAIN-SUFFIX,ethenapay.co
+DOMAIN-SUFFIX,ethenapay-api.co
+DOMAIN-SUFFIX,ethena.fi
+DOMAIN-SUFFIX,sumsub.com
+DOMAIN-SUFFIX,idensic.com
