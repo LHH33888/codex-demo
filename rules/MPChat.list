@@ -1,0 +1,8 @@
+# MPChat / MP Network
+# Surge Rule Set
+
+DOMAIN-SUFFIX,mp.net
+DOMAIN-SUFFIX,mpchat.io
+DOMAIN-SUFFIX,mpchat.com
+DOMAIN-SUFFIX,sumsub.com
+DOMAIN-SUFFIX,idensic.com
