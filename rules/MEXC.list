@@ -1,0 +1,4 @@
+# MEXC Surge Rule Set
+# Official web/app/API root domain
+
+DOMAIN-SUFFIX,mexc.com
