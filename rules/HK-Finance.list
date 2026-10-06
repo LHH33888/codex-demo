@@ -1,0 +1,63 @@
+# HK-Finance.list
+# Curated Hong Kong finance rules for Surge
+# Banks / virtual banks / payment / HK securities
+# Shared analytics/CDN/security domains intentionally excluded.
+
+# HSBC / Hang Seng
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcinnovationbanking.com
+DOMAIN-SUFFIX,hangseng.com
+
+# Hong Kong banks
+DOMAIN-SUFFIX,chbank.com
+DOMAIN-SUFFIX,icbcasia.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,cmbwinglungbank.com
+
+# JETCO / Octopus
+DOMAIN-SUFFIX,jetco.com.hk
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,octopuscards.com
+
+# PAO Bank
+DOMAIN-SUFFIX,pingandb.com
+DOMAIN-SUFFIX,paob.com.hk
+
+# Airstar Bank
+DOMAIN-SUFFIX,elebank.com
+DOMAIN-SUFFIX,airstarbank.com
+
+# ZA Bank
+DOMAIN-SUFFIX,za.group
+
+# WeLab Bank
+DOMAIN-SUFFIX,welab.bank
+
+# Fusion Bank / Ant Bank / livi
+DOMAIN-SUFFIX,fusionbank.com
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,livibank.com
+
+# Futu Hong Kong
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futucrypto.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,futunn.com
+
+# Longbridge
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridgehk.com
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,lbkrs.com
+
+# uSMART Hong Kong
+DOMAIN-SUFFIX,usmart.hk
+DOMAIN-SUFFIX,usmartglobal.com
+DOMAIN-SUFFIX,usmart66.com
+
+# Chief Securities
+DOMAIN-SUFFIX,chiefgroup.com.hk
