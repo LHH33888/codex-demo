@@ -1,0 +1,12 @@
+# Xbox Series S - Surge domain rules
+# Policy is selected in Surge: HK-EXIT
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,xboxgamestudios.com
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,account.microsoft.com
+DOMAIN-SUFFIX,login.live.com
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
+DOMAIN-SUFFIX,displaycatalog.mp.microsoft.com
