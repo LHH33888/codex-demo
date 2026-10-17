@@ -1,0 +1,4 @@
+# Ping An Digital Bank (Hong Kong), formerly PAObank
+# Surge rule set - assign HK-EXIT in Surge
+DOMAIN-SUFFIX,pingandb.com
+DOMAIN-SUFFIX,paob.com.hk
