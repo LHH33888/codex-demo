@@ -1,0 +1,4 @@
+# Hang Seng Bank (Hong Kong) - Surge rules
+# Select HK-EXIT in Surge; no policy name in this file
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
