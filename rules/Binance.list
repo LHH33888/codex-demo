@@ -1,0 +1,10 @@
+# Binance Surge rules
+# Assign an appropriate permitted-region policy in Surge
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,binancefuture.com
+DOMAIN-SUFFIX,binancezh.com
