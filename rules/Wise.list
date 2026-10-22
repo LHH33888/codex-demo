@@ -1,0 +1,5 @@
+# Wise (formerly TransferWise) - Surge remote rule set
+# Choose a stable permitted-region policy in Surge
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wiseassets.com
