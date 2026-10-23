@@ -1,0 +1,4 @@
+# Starryblu - Surge remote rule set
+# Official website: https://www.starryblu.com/
+# Suggested policy: SG-EXIT (subject to account region and service terms)
+DOMAIN-SUFFIX,starryblu.com
