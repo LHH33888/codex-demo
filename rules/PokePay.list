@@ -1,0 +1,4 @@
+# PokePay Surge remote rule set
+# Select a stable permitted-region policy in Surge
+DOMAIN-SUFFIX,pokepay.com
+DOMAIN-SUFFIX,pokepay.cc
