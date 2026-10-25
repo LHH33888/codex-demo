@@ -1,0 +1,5 @@
+# Bybit Surge remote rule set
+# Assign TW-EXIT only where service is permitted
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.biz
