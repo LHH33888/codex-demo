@@ -1,0 +1,3 @@
+# dtcpay - Surge remote rule set
+# Suggested policy: SG-EXIT (subject to service eligibility)
+DOMAIN-SUFFIX,dtcpay.com
