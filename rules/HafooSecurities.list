@@ -1,0 +1,5 @@
+# Hafoo Securities - Surge remote rules
+# Recommended policy: HK-EXIT
+DOMAIN-SUFFIX,hafoo.com.hk
+DOMAIN-SUFFIX,hafoo.com.cn
+DOMAIN-SUFFIX,hafoo.com
