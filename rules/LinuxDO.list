@@ -1,0 +1,4 @@
+# LINUX DO - Surge remote rule set
+# Set policy to DIRECT when importing
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,idcflare.com
