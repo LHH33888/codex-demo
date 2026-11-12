@@ -1,4 +1,5 @@
 # LINUX DO - Surge remote rule set
-# Set policy to DIRECT when importing
+# Import with DIRECT; use extended-matching on the RULE-SET directive
+DOMAIN,cloudflare-ech.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,idcflare.com
